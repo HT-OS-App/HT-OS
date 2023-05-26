@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: Untitled Bug Report
 labels: bug
-assignees: ''
+assignees: captainawesomejnr
 
 ---
 
@@ -20,10 +20,9 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. Windows 10]
- - Browser [e.g. chrome, safari]
- - Browser Version [e.g. 22]
+**Version Info (please complete):**
+ - OS: [e.g. Windows 10 22H2]
+ - Browser [e.g. Google Chrome, Microsoft Edge]
 
 **Additional context**
 Add any other context about the problem here.
