@@ -21,8 +21,9 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Version Info (please complete):**
- - OS: [e.g. Windows 10 22H2]
+ - OS: [e.g. Windows 10 22H2, iPadOS 16.6.1]
  - Browser [e.g. Google Chrome, Microsoft Edge]
+ - Browser Version [e.g. 112]
 
 **Additional context**
 Add any other context about the problem here.
